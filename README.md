@@ -1,2 +1,2 @@
 # odin-recipes
-Page with links..
+A basic recipe website with links
