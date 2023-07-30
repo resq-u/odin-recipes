@@ -28,5 +28,22 @@ h1 {
     text-align: left;
 }
 
-ul,
-h3 {}
+.recipe-card h2,
+.recipe-card a {
+ text-transform: uppercase;
+}
+
+.recipe-card.feature {
+    border: 2px solid darkred;
+}
+
+h2,
+ul li {
+    font-size: 16px;
+}
+
+a {
+    background-color: #fc9400;
+    color: white;
+    text-decoration: none;
+}
